@@ -44,3 +44,8 @@ iframe {
   display: block;
   margin: auto;
 }
+
+table, th, td {
+  border: 0px;
+  border-collapse: collapse;
+}
