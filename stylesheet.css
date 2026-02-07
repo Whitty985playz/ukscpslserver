@@ -48,4 +48,6 @@ iframe {
 table, th, td {
   border: 0px;
   border-collapse: collapse;
+  margin: auto;
+  text-align: Center;
 }
