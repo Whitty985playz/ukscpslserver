@@ -49,5 +49,8 @@ table, th, td {
   border: 0px;
   border-collapse: collapse;
   margin: auto;
+  font-family: Roboto Mono, monospace;
+  color: White;
   text-align: Center;
+  font-size: 15px;
 }
