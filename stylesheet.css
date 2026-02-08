@@ -20,7 +20,24 @@ h3 {
   text-align: Center;
   font-size: 20px;
 }
-
+h4 {
+  font-family: Roboto Mono, monospace;
+  color: #005EBC;
+  text-align: Center;
+  font-size: 25px;
+}
+h5 {
+  font-family: Roboto Mono, monospace;
+  color: #8137CE;
+  text-align: Center;
+  font-size: 25px;
+}
+h6 {
+  font-family: Roboto Mono, monospace;
+  color: #EFC01A;
+  text-align: Center;
+  font-size: 25px;
+}
 p {
   font-family: Roboto Mono, monospace;
   color: White;
@@ -62,4 +79,9 @@ th {
   color: White;
   text-align: Center;
   font-size: 20px;
+}
+code {
+  font-family: Roboto Mono, monospace;
+  color: #008080;
+  font-size: 25px;
 }
