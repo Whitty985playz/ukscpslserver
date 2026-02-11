@@ -62,24 +62,6 @@ iframe {
   margin: auto;
 }
 
-table, td {
-  border: 0px;
-  border-collapse: collapse;
-  margin: auto;
-  font-family: Roboto Mono, monospace;
-  color: White;
-  text-align: Center;
-  font-size: 15px;
-}
-th {
-  border: 0px;
-  border-collapse: collapse;
-  margin: auto;
-  font-family: Roboto Mono, monospace;
-  color: White;
-  text-align: Center;
-  font-size: 20px;
-}
 code {
   font-family: Roboto Mono, monospace;
   color: #008080;
