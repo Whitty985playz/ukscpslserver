@@ -1,9 +1,14 @@
+@font-face {
+  font-family: BetterVCR; 
+  src: url(fonts/df88a86cab17a5aa03871b7a9522be60656bbffa2586c1d97d7e785424aad85f.woff2); 
+}
+
 body {
   background-image: linear-gradient(to bottom, black, #100015);
 }
 
 h1 {
-  font-family: Roboto Mono, monospace;
+  font-family: BetterVCR, monospace;
   color: White;
   text-align: Center;
   font-size: 30px;
